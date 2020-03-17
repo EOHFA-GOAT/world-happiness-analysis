@@ -3,3 +3,6 @@ The data comes from a 2019 Kaggle dataset collected from the World Happiness Rep
 In this project, the data ranges from the years 2015 to 2017. 
 All of the data used for this analysis project can be found in the master branch of this repository.
 
+Source of Data: https://www.kaggle.com/unsdsn/world-happiness
+
+This project is licensed under the Creative Commons Zero v1.0 Universal
