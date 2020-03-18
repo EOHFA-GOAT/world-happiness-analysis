@@ -5,4 +5,4 @@ All of the data used for this analysis project can be found in the master branch
 
 Source of Data: https://www.kaggle.com/unsdsn/world-happiness
 
-This project is licensed under the Creative Commons Zero v1.0 Universal
+This project is licensed under Creative Commons Zero v1.0 Universal
